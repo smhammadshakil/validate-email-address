@@ -31,7 +31,7 @@ This program provides robust email validation, making it ideal for developers lo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/email-validation-tool.git
+   git clone https://github.com/smhammadshakil/validate-email-address.git
    ```
 2. Move to project directory:
    ```bash
